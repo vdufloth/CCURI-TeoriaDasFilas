@@ -1,0 +1,98 @@
+
+.nav-custom, .btn-custom{
+  background-color: #008B8B;
+  box-shadow: 5px 3px 7px #2d2f2f;
+  color: #fff;
+}
+
+.navbar-header > h4 , .btn-custom{
+  color: #fff;
+}
+.cont-custom{
+  padding: 0;
+}
+
+.not-padding{
+  padding: 0;
+}
+
+#espacamento{
+  padding: 10px 0 0 10px;
+}
+
+.custom-table{
+  clear: both;
+  margin-bottom: 3%;
+}
+.btn-custom{
+  color:#fff;
+}
+
+.custom-table, custom-btn{
+    width: 68%;
+    margin-left: 4%;
+}
+
+#table-resposta{
+  margin-top: 10px;
+}
+
+.custom-table input[type="number"]{
+  width: 96px;
+}
+
+.text-align{
+  text-align: center;
+}
+
+.display-none{
+  display: none;
+}
+
+ #inputPessoa{
+  width: 90px;
+}
+
+#inputMin{
+  width: 107px;
+}
+
+#table-probabilidade{
+  clear: both;
+
+}
+
+#table-probabilidade tr th{
+  background-color: #4ea041;
+  color: white;
+}
+
+#btn-enviar{
+  width: 66px;
+}
+
+#title {
+  font-size: 25px;
+  padding: 1% 0 0 0;
+  color:#394c4c;
+  margin-left: 73px;
+}
+
+img{
+  width: 60px;
+}
+
+#cenarios{
+  text-align: center;
+  background-color: #4ea041;
+  color: white;
+}
+
+.no-border{
+  border-top-color: #fff !important;
+  border-left-color: #fff !important;
+}
+
+.form-control-static{
+  font-size: 17px;
+}
